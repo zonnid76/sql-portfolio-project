@@ -14,4 +14,13 @@ They are looking for somebody who is proficient on both Python and SQL, has expe
 ## b. Project Relationship to Job Posting
 Given the job description, this project would help qualify me for the role.
 If I can successfully leverage data of song characteristics to provide actionable insights on how to approach investing in artists, using SQL and Python, I would then meet the exact description/qualifications that UMG is looking for.
-
+# 4. Data
+## a. Source
+I utilized Spotify's API to collect data of songs from 53 different playlists, each having 100 top hit songs from each year, spanning from 1970 through 2022.
+## b. Characteristics
+ The song data that I collected for each track are: 'track_id', 'chart_year', 'track_name', 'artist', 'album', 'danceability', 'energy', 'track_key', 'loudness', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', and 'time_signature'.
+ # 5. Notebooks
+ ## a. Data Collection Notebook:
+ 
+ ## b. SQL Analysis Notebook:
+ 
