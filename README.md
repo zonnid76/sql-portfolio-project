@@ -25,4 +25,5 @@ In the data collection notebook, I imported libraries in order to easily connect
 ## b. SQL Analysis Notebook: https://github.com/zonnid76/sql-portfolio-project/blob/b3664e10a890168efab722073362425c56b643f9/sql_analysis.ipynb
 In the SQL analysis notebook, I ran 5 exploratory SQL queries, 1 primary SQL query, and 2 secondary SQL queries in order to solve the problem and determine the general characteristics that make up a top hit, which can then be used to predict top-hit-potential of future songs.
 # 6. Future Improvements
-## a. Adding data from a large catalog of random songs, in order to compare the random song data to that of the top hits, to see how they differ.
+## a. Adding a Comparison Group
+To continue this project, I would next add data from a large catalog of random songs, in order to compare the random song data to that of the top hits, to see how they differ.
