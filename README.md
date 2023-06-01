@@ -1,4 +1,5 @@
-# 1. UMG Data Analyst SQL Project
+# 1. Data Analyst SQL Project
+For this project, I referenced a UMG Data Analyst job posting, in order to direct my efforts in a way that would demonstrate my qualifications to be a data analyst. To do so, I utilized Python, SQL, Tableau, AWS RDS, and the Spotify API to collect and conduct analysis on music data.
 # 2. Project Objective
 ## a. The Problem
 How can the potential for a song to become a top hit be estimated?
